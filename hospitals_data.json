@@ -1,0 +1,7 @@
+{
+  "hospitals": [
+    {"name": "CityCare", "location": "D", "capacity": 100, "current_occupancy": 85},
+    {"name": "LifeLine", "location": "E", "capacity": 80, "current_occupancy": 78},
+    {"name": "MediHope", "location": "F", "capacity": 120, "current_occupancy": 50}
+  ]
+}

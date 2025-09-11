@@ -1,0 +1,15 @@
+{
+  "nodes": ["A", "B", "C", "D", "E", "F"],
+  "edges": [
+    {"from": "A", "to": "B", "distance": 4, "traffic": 2},
+    {"from": "A", "to": "C", "distance": 2, "traffic": 5},
+    {"from": "B", "to": "C", "distance": 1, "traffic": 1},
+    {"from": "B", "to": "D", "distance": 5, "traffic": 2},
+    {"from": "C", "to": "D", "distance": 8, "traffic": 4},
+    {"from": "C", "to": "E", "distance": 10, "traffic": 3},
+    {"from": "D", "to": "E", "distance": 2, "traffic": 1},
+    {"from": "D", "to": "F", "distance": 6, "traffic": 3},
+    {"from": "E", "to": "F", "distance": 3, "traffic": 2}
+  ]
+}
+
