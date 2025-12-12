@@ -1,0 +1,1 @@
+An AI-driven routing prototype for ambulances that computes fastest real-time paths to hospitals. It uses traffic prediction models to assign dynamic weights to road segments,runs modified Dijkstra’s algorithm to adapt routes when congestion appears. Aims to minimize ambulance response time using live traffic, hospital data,re-routing capabilities.
